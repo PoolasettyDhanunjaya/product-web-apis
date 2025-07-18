@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "web_apis.Controllers.ProductController",
+    "Method": "AddProduct",
+    "RelativePath": "api/Product/CreateProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "web_apis.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web_apis.Controllers.ProductController",
+    "Method": "DeleteByIdGetProduct",
+    "RelativePath": "api/Product/DeleteById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "web_apis.Controllers.ProductController",
+    "Method": "GetProductAsync",
+    "RelativePath": "api/Product/GetProductById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web_apis.Controllers.ProductController",
+    "Method": "GetProducts",
+    "RelativePath": "api/Product/GetProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[web_apis.Models.Product, web-apis, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "web_apis.Controllers.ProductController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/Product/UpdateProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "web_apis.Models.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

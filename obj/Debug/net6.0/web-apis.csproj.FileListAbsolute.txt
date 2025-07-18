@@ -1,0 +1,75 @@
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\appsettings.json
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\web-apis.staticwebassets.endpoints.json
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\web-apis.exe
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\web-apis.deps.json
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\web-apis.runtimeconfig.json
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\web-apis.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\web-apis.pdb
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\DnsClient.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\Snappier.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\web-apis.csproj.AssemblyReference.cache
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\web-apis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\web-apis.AssemblyInfoInputs.cache
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\web-apis.AssemblyInfo.cs
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\web-apis.csproj.CoreCompileInputs.cache
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\web-apis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\web-apis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\scopedcss\bundle\web-apis.styles.css
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\web-apis.csproj.Up2Date
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\web-apis.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\refint\web-apis.dll
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\web-apis.pdb
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\web-apis.genruntimeconfig.cache
+C:\Users\P7113587\OneDrive - Ness Digital Engineering\Self\web-apis\obj\Debug\net6.0\ref\web-apis.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\appsettings.json
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\web-apis.staticwebassets.endpoints.json
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\web-apis.exe
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\web-apis.deps.json
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\web-apis.runtimeconfig.json
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\web-apis.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\web-apis.pdb
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\DnsClient.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\Snappier.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.csproj.AssemblyReference.cache
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.AssemblyInfoInputs.cache
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.AssemblyInfo.cs
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.csproj.CoreCompileInputs.cache
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.sourcelink.json
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\scopedcss\bundle\web-apis.styles.css
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.csproj.Up2Date
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.dll
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\refint\web-apis.dll
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.pdb
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\web-apis.genruntimeconfig.cache
+C:\Users\P7113587\Desktop\product-web-apis\obj\Debug\net6.0\ref\web-apis.dll
