@@ -1,23 +1,25 @@
-# Stage 1: Build the app
+# Stage 1: Build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# Copy project file and restore
+# Copy csproj and restore
 COPY *.csproj ./
 RUN dotnet restore
 
-# Copy all source files and build
+# Copy everything else and publish
 COPY . ./
 RUN dotnet publish -c Release -o /app/publish
 
-# Stage 2: Run the app
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+# Stage 2: Runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
 
+# Render expects app to run on port 10000
+ENV ASPNETCORE_URLS=http://+:10000
+EXPOSE 10000
+
+# Copy published output
 COPY --from=build /app/publish .
 
-# Expose port (optional, Render maps automatically)
-EXPOSE 80
-
-# Run the app
+# Run your app
 ENTRYPOINT ["dotnet", "web-apis.dll"]
