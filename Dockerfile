@@ -16,7 +16,7 @@ WORKDIR /app
 COPY --from=build /app/out ./
 
 # Expose the port your app runs on (usually 80 or 5000)
-EXPOSE 7136
+EXPOSE 5000
 
 # Run the app
 ENTRYPOINT ["dotnet", "web-apis.dll"]
