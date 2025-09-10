@@ -12,15 +12,16 @@ namespace web_apis.Controllers
     public class ProductController : ControllerBase
     {
         // Dependency: ProductService for business logic
-        private readonly ProductService _productService;
+        private  readonly ProductService _productService;
 
         // Optional dependency: logger (not yet used)
         private readonly ILogger<ProductController> _logger;
 
         // Inject ProductService
-        public ProductController(ProductService productService)
+        public ProductController(ProductService productService, ILogger<ProductController> logger)
         {
             _productService = productService;
+            _logger = logger;
         }
 
 

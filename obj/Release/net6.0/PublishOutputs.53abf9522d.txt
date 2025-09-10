@@ -1,0 +1,17 @@
+C:\Users\P7113587\Desktop\product-web-apis\out\web-apis.exe
+C:\Users\P7113587\Desktop\product-web-apis\out\appsettings.Development.json
+C:\Users\P7113587\Desktop\product-web-apis\out\appsettings.json
+C:\Users\P7113587\Desktop\product-web-apis\out\web-apis.dll
+C:\Users\P7113587\Desktop\product-web-apis\out\web-apis.deps.json
+C:\Users\P7113587\Desktop\product-web-apis\out\web-apis.runtimeconfig.json
+C:\Users\P7113587\Desktop\product-web-apis\out\web-apis.pdb
+C:\Users\P7113587\Desktop\product-web-apis\out\DnsClient.dll
+C:\Users\P7113587\Desktop\product-web-apis\out\Microsoft.OpenApi.dll
+C:\Users\P7113587\Desktop\product-web-apis\out\MongoDB.Bson.dll
+C:\Users\P7113587\Desktop\product-web-apis\out\MongoDB.Driver.dll
+C:\Users\P7113587\Desktop\product-web-apis\out\SharpCompress.dll
+C:\Users\P7113587\Desktop\product-web-apis\out\Snappier.dll
+C:\Users\P7113587\Desktop\product-web-apis\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\P7113587\Desktop\product-web-apis\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\P7113587\Desktop\product-web-apis\out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\P7113587\Desktop\product-web-apis\out\ZstdSharp.dll
