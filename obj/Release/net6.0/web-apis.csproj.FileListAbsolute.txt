@@ -35,3 +35,9 @@ C:\Users\P7113587\Desktop\product-web-apis\obj\Release\net6.0\refint\web-apis.dl
 C:\Users\P7113587\Desktop\product-web-apis\obj\Release\net6.0\web-apis.pdb
 C:\Users\P7113587\Desktop\product-web-apis\obj\Release\net6.0\web-apis.genruntimeconfig.cache
 C:\Users\P7113587\Desktop\product-web-apis\obj\Release\net6.0\ref\web-apis.dll
+C:\Users\P7113587\Desktop\product-web-apis\bin\Release\net6.0\out\web.config
+C:\Users\P7113587\Desktop\product-web-apis\bin\Release\net6.0\out\appsettings.Development.json
+C:\Users\P7113587\Desktop\product-web-apis\bin\Release\net6.0\out\appsettings.json
+C:\Users\P7113587\Desktop\product-web-apis\bin\Release\net6.0\out\web-apis.deps.json
+C:\Users\P7113587\Desktop\product-web-apis\bin\Release\net6.0\out\web-apis.runtimeconfig.json
+C:\Users\P7113587\Desktop\product-web-apis\bin\Release\net6.0\out\web-apis.staticwebassets.endpoints.json

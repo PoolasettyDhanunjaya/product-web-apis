@@ -1,6 +1,12 @@
 C:\Users\P7113587\Desktop\product-web-apis\out\web-apis.exe
+C:\Users\P7113587\Desktop\product-web-apis\out\out\web.config
 C:\Users\P7113587\Desktop\product-web-apis\out\appsettings.Development.json
 C:\Users\P7113587\Desktop\product-web-apis\out\appsettings.json
+C:\Users\P7113587\Desktop\product-web-apis\out\out\appsettings.Development.json
+C:\Users\P7113587\Desktop\product-web-apis\out\out\appsettings.json
+C:\Users\P7113587\Desktop\product-web-apis\out\out\web-apis.deps.json
+C:\Users\P7113587\Desktop\product-web-apis\out\out\web-apis.runtimeconfig.json
+C:\Users\P7113587\Desktop\product-web-apis\out\out\web-apis.staticwebassets.endpoints.json
 C:\Users\P7113587\Desktop\product-web-apis\out\web-apis.dll
 C:\Users\P7113587\Desktop\product-web-apis\out\web-apis.deps.json
 C:\Users\P7113587\Desktop\product-web-apis\out\web-apis.runtimeconfig.json
